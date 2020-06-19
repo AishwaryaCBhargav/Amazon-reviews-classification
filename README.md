@@ -1,2 +1,2 @@
 # Amazon-reviews-classification
-Text classification
+Text classification using Spacy library 
